@@ -5,14 +5,18 @@ page-layout: full
 theme: superhero
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
 <div style="text-align: center;">
   <img src="images/foto.jpg" alt="Juan Camilo Rodriguez" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #fff;" />
 </div>
+
   <h1 class="hero-name">**Juan Camilo Rodriguez**</h1>
   <p class="hero-role">MBA Candidate · Insurance Leader · Digital Strategist</p>
+
   <a class="contact-btn" href="mailto:juancamilo.rodriguezgarzon@gmail.com"><i class="bi bi-envelope-at"></i></a>
   <div class="social-icons">
-<a href="www.linkedin.com/in juan-camilo-rodriguez-garzon-1b180796" target="_blank"><i class="bi bi-linkedin"></i></a>
+<a href="https://linkedin.com/in/juan-camilo-rodriguez-garzon-1b180796" target="_blank"><i class="bi bi-linkedin"></i></a>
 
 ---
 
