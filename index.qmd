@@ -3,6 +3,7 @@ title: "Profile"
 format: html
 page-layout: full
 theme: superhero
+  
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
@@ -11,20 +12,25 @@ theme: superhero
   <img src="images/foto.jpg" alt="Juan Camilo Rodriguez" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 3px solid #fff;" />
 </div>
 
-  <h1 class="hero-name">**Juan Camilo Rodriguez**</h1>
-  <p class="hero-role">MBA Candidate · Insurance Leader · Digital Strategist</p>
+<h1 class="hero-name" style="text-align: center;">Juan Camilo Rodriguez</h1>
+<p class="hero-role" style="text-align: center;">MBA Candidate · Insurance Leader · Digital Strategist</p>
 
-  <a class="contact-btn" href="mailto:juancamilo.rodriguezgarzon@gmail.com"><i class="bi bi-envelope-at"></i></a>
-  <div class="social-icons">
-<a href="https://linkedin.com/in/juan-camilo-rodriguez-garzon-1b180796" target="_blank"><i class="bi bi-linkedin"></i></a>
+<div style="text-align: center; margin-bottom: 10px;">
+  <a href="mailto:juancamilo.rodriguezgarzon@gmail.com" style="margin-right: 15px;">
+    <i class="bi bi-envelope-at"></i> Email
+  </a>
+  <a href="https://linkedin.com/in/juan-camilo-rodriguez-garzon-1b180796" target="_blank">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
+</div>
 
----
+***
 
 Welcome to my site!!!
 
-I am a Results-driven professional with an enrolment student in Master's in Business Administration and over 10 years of experience in leadership, customer service, and financial management. Proven ability to drive sales growth, proficiency in exceeding customer service indicators, exceeding performance targets, and enhancing customer retention strategies. Expertise in managing loyalty programs and insurance portfolios and delivering tailored solutions. Skilled in training teams and collaborating with key stakeholders to optimize operations. Proficient with QuickBooks and strategic planning of business, customer satisfaction and efficiency.
+I am a results-driven MBA candidate with over 10 years of experience in leadership, customer service, and financial management. Proven ability to drive sales growth, proficiency in exceeding customer service indicators, exceeding performance targets, and enhancing customer retention strategies. Expertise in managing loyalty programs and insurance portfolios and delivering tailored solutions. Skilled in training teams and collaborating with key stakeholders to optimize operations. Proficient with QuickBooks and strategic planning of business, customer satisfaction and efficiency.
 
----
+***
 
 ## <i class="bi bi-backpack"></i> **Education**
 
@@ -38,7 +44,7 @@ Universidad Sergio Arboleda, Bogotá, Colombia (2013)
 **B.Sc. Industrial Engineering**  
 Universidad Sergio Arboleda, Bogotá, Colombia (2007)
 
----
+***
 
 ## <i class="bi bi-briefcase-fill"></i> Professional Highlights
 
@@ -67,7 +73,7 @@ Universidad Sergio Arboleda, Bogotá, Colombia (2007)
 - Re-developed business approaches and new broker relationships (AON, Willis, Delima).
 - Headed initiatives on product development and mass communication.
 
----
+***
 
 ## <i class="bi bi-lightbulb-fill"></i> **Skills & Strengths**
 
@@ -85,8 +91,7 @@ Universidad Sergio Arboleda, Bogotá, Colombia (2007)
 - Change Management
 - Compliance and Risk Management
 
-
----
+***
 
 ## **Contact**
 
